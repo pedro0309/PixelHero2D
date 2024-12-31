@@ -8,6 +8,7 @@ TagManager:
   - Item_2
   - Item_3
   - Enemy
+  - Enemy2
   layers:
   - Default
   - TransparentFX
